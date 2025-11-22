@@ -39,7 +39,7 @@ I am a results-driven **Senior Data & Business Analyst** with over 6 years of ex
 
 ### 💼 Work Experience
 
--   **Senior Data & Business Analyst** | AlgoPrep (EdTech Startup) | *Oct 2023 - Jun 2025*
+-   **Senior Data & Business Analyst** | AlgoPrep (EdTech Startup) | *Oct 2023 - Aug 2025*
 -   **Senior Data Analyst** | BallotNow (Electoral Research Startup) | *Jan 2022 - Sep 2023*
 -   **Data & Market Research Analyst** | GlobalData | *Jun 2021 - Dec 2021*
 -   **Facilitator** | Centre Direct NGO | *Oct 2015 - Dec 2017*
